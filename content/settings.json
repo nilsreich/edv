@@ -2,8 +2,8 @@
   "title": "Medienethik",
   "url": "",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/home_black_24dp.svg",
+    "dark": "/home_white_24dp.svg"
   },
   "github": "nuxt/content",
   "twitter": "@nuxt_js"
