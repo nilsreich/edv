@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nils\\\\Desktop\\\\2021\\\\edv2\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
+    "chunkName": "pages/_",
+    "_name": "_3191b6a2"
+  },
+  {
+    "name": "all___en",
+    "path": "/*",
+    "component": "C:\\\\Users\\\\Nils\\\\Desktop\\\\2021\\\\edv2\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
+    "chunkName": "pages/_",
+    "_name": "_3191b6a2"
+  }
+]
